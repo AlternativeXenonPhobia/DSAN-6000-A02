@@ -1,0 +1,6 @@
+Median weight (Smoker=Yes): 3204
+Median weight (Smoker=No):  3459.000000
+Average weight (Alcohol=Yes): 3345.250000
+Average weight (Alcohol=No):  3448.669652
+Stddev (Alcohol=Yes): 639.556813
+Standard Deviation (Alcohol=Yes): 553.872447

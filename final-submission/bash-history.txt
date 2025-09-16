@@ -1,0 +1,9 @@
+    1  chmod +x data-script.bash
+    2  bash data-script.bash > bash-stdout.txt
+    3  ;s
+    4  ls
+    5  sudo apt-get update
+    6  sudo apt-get install -y bc
+    7  echo "scale=4; sqrt(4)" | bc -l
+    8  bash data-script.bash > bash-stdout.txt
+    9  history > bash-history.txt
